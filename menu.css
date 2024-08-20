@@ -94,7 +94,7 @@ header{
     left: 0;
     right: 0;
     background: #ffff;
-    padding: 1rem 7%;
+    padding: 1rem 2%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -104,7 +104,7 @@ header{
 
 header .logo{
     color: var(--black);
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: bolder;
     color: var(--green);
 }
